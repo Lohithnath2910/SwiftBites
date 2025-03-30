@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.a8d092e7.css",
-    "main.js": "/static/js/main.19ade8c1.js",
+    "main.css": "/static/css/main.5057946b.css",
+    "main.js": "/static/js/main.782e7ad3.js",
     "static/js/453.69b606e8.chunk.js": "/static/js/453.69b606e8.chunk.js",
     "static/media/img2.jpg": "/static/media/img2.6eb0b6e6ba4f802d54a8.jpg",
-    "static/media/pexels-karolina-grabowska-5993559.jpg": "/static/media/pexels-karolina-grabowska-5993559.9c4679e2094782fbe66b.jpg",
     "static/media/img4.jpg": "/static/media/img4.a696ab5e493b8864075f.jpg",
     "static/media/img3.jpg": "/static/media/img3.f4edccfd38d8fbacb6f3.jpg",
     "static/media/img1.jpg": "/static/media/img1.85123ec839de9d31c60e.jpg",
-    "static/media/pexels-chanwalrus-958545.jpg": "/static/media/pexels-chanwalrus-958545.ae88a0704b6edbb258b4.jpg",
+    "static/media/1.jpeg": "/static/media/1.47b8aec824eb39ca0e9c.jpeg",
+    "static/media/9.jpeg": "/static/media/9.eb74d62c65df0031ef1a.jpeg",
     "static/media/beige-abstract-wallpaper-background-image.jpg": "/static/media/beige-abstract-wallpaper-background-image.dbd7dd167ae34b1d47ee.jpg",
     "index.html": "/index.html",
-    "main.a8d092e7.css.map": "/static/css/main.a8d092e7.css.map",
-    "main.19ade8c1.js.map": "/static/js/main.19ade8c1.js.map",
+    "main.5057946b.css.map": "/static/css/main.5057946b.css.map",
+    "main.782e7ad3.js.map": "/static/js/main.782e7ad3.js.map",
     "453.69b606e8.chunk.js.map": "/static/js/453.69b606e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8d092e7.css",
-    "static/js/main.19ade8c1.js"
+    "static/css/main.5057946b.css",
+    "static/js/main.782e7ad3.js"
   ]
 }
